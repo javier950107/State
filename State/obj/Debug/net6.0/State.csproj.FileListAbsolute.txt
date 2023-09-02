@@ -1,0 +1,14 @@
+C:\Users\wall_\source\repos\State\State\bin\Debug\net6.0\State.exe
+C:\Users\wall_\source\repos\State\State\bin\Debug\net6.0\State.deps.json
+C:\Users\wall_\source\repos\State\State\bin\Debug\net6.0\State.runtimeconfig.json
+C:\Users\wall_\source\repos\State\State\bin\Debug\net6.0\State.dll
+C:\Users\wall_\source\repos\State\State\bin\Debug\net6.0\State.pdb
+C:\Users\wall_\source\repos\State\State\obj\Debug\net6.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wall_\source\repos\State\State\obj\Debug\net6.0\State.AssemblyInfoInputs.cache
+C:\Users\wall_\source\repos\State\State\obj\Debug\net6.0\State.AssemblyInfo.cs
+C:\Users\wall_\source\repos\State\State\obj\Debug\net6.0\State.csproj.CoreCompileInputs.cache
+C:\Users\wall_\source\repos\State\State\obj\Debug\net6.0\State.dll
+C:\Users\wall_\source\repos\State\State\obj\Debug\net6.0\refint\State.dll
+C:\Users\wall_\source\repos\State\State\obj\Debug\net6.0\State.pdb
+C:\Users\wall_\source\repos\State\State\obj\Debug\net6.0\State.genruntimeconfig.cache
+C:\Users\wall_\source\repos\State\State\obj\Debug\net6.0\ref\State.dll
